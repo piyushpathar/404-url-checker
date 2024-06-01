@@ -6,19 +6,13 @@ Setup
 
     Clone the Repository:
 
-    bash
-
-git clone https://github.com/your_username/404-url-checker.git
+git clone https://github.com/piyushpathar/404-url-checker.git
 
 Navigate to the Repository:
-
-bash
 
 cd 404-url-checker
 
 Install Requirements:
-
-bash
 
     pip install -r requirements.txt
 
@@ -30,9 +24,7 @@ Usage
 
     Run the Script:
 
-    bash
-
-    python 404_url_checker.py
+    python3 404_url_checker.py
 
     View Output:
         Check the 404_urls.csv file for URLs returning a 404 status code.
